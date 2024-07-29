@@ -1,0 +1,5 @@
+binary_value = input()
+decimal_value = int(input())
+bin_dec = int(binary_value, 2)
+result = decimal_value - int(bin_dec)
+print(result)
