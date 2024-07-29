@@ -1,0 +1,6 @@
+name = input()
+number = input()
+print('Группа №' + number[0] + '.')
+print(number[2] + '. ' + name + '.')
+print('Шкафчик: ' + number + '.')
+print('Кроватка: ' + number[1] + '.')
